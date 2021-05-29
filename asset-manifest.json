@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/vslemon/auction-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/vslemon/auction-app/static/js/main.cf71a757.chunk.js",
+    "main.js.map": "/vslemon/auction-app/static/js/main.cf71a757.chunk.js.map",
+    "runtime-main.js": "/vslemon/auction-app/static/js/runtime-main.e1aab83e.js",
+    "runtime-main.js.map": "/vslemon/auction-app/static/js/runtime-main.e1aab83e.js.map",
+    "static/js/2.7a7e1c0a.chunk.js": "/vslemon/auction-app/static/js/2.7a7e1c0a.chunk.js",
+    "static/js/2.7a7e1c0a.chunk.js.map": "/vslemon/auction-app/static/js/2.7a7e1c0a.chunk.js.map",
+    "index.html": "/vslemon/auction-app/index.html",
+    "precache-manifest.85006070b8bc46960f2c596721d665c8.js": "/vslemon/auction-app/precache-manifest.85006070b8bc46960f2c596721d665c8.js",
+    "service-worker.js": "/vslemon/auction-app/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/vslemon/auction-app/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1aab83e.js",
+    "static/js/2.7a7e1c0a.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.cf71a757.chunk.js"
+  ]
+}
