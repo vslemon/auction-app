@@ -118,7 +118,7 @@ class App extends Component {
     }
 
     let bid
-    if (number(this.state.input) <= number(this.state.highestBid)) {
+    if (Number(this.state.input) <= Number(this.state.highestBid)) {
       bid = <div>You have to bid higher!</div>
     }
  
